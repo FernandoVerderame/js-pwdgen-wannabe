@@ -9,3 +9,7 @@ console.log(message);
 // ! 3 Chiediamo il nome all'utente
 const userName = prompt('Qual è il tuo nome?');
 console.log(userName);
+
+// ! 4 Chiediamo il cognome all'utente
+const userSurname = prompt('Qual è il tuo cognome?');
+console.log(userSurname);
