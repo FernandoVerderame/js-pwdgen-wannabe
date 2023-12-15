@@ -17,3 +17,10 @@ console.log(userSurname);
 // ! 5 Chiediamo il colore preferito all'utente
 const userColor = prompt('Qual è il tuo colore preferito?');
 console.log(userColor);
+
+// ! 6 A-B Generiamo una password con i dati dell'utente
+const userPassword = userName + userSurname + userColor + '21';
+console.log(userPassword);
+
+
+
