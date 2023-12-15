@@ -22,5 +22,9 @@ console.log(userColor);
 const userPassword = userName + userSurname + userColor + '21';
 console.log(userPassword);
 
+// ! 7 Inseriamo il risultato nell'elemento HTML
+// Aggiorniamo il messaggio
+message += `<strong>${userPassword}</strong>`;
+console.log(message);
 
 
