@@ -22,3 +22,17 @@ Consigli
 - Commentate ogni micro step e subito dopo verificate col (console.log())
 - Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
 Buon lavoro e buon weekend!
+
+
+
+
+# SCALETTA 
+
+1. Prendo l'elemento dal DOM (la p)
+2. Costruiamo il messaggio 
+3. Chiediamo il nome all'utente
+4. Chiediamo il cognome all'utente
+5. Chiediamo il colore preferito all'utente
+6. A - Generiamo una password con i dati dell'utente
+6. B - Aggiungiamo 21 alla password finale 
+7. Inseriamo il risultato nell'elemento HTML
