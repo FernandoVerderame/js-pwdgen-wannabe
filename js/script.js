@@ -27,4 +27,7 @@ console.log(userPassword);
 message += `<strong>${userPassword}</strong>`;
 console.log(message);
 
+paragraph.innerHTML = message;
+console.log(paragraph);
+
 
